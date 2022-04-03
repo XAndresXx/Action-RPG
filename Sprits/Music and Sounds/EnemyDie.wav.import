@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/EnemyDie.wav-fd4aeb3aa1595560b144cf1aff38da8b.sample"
+
+[deps]
+
+source_file="res://Sprits/Music and Sounds/EnemyDie.wav"
+dest_files=[ "res://.import/EnemyDie.wav-fd4aeb3aa1595560b144cf1aff38da8b.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0
